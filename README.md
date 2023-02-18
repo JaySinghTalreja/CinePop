@@ -34,6 +34,7 @@ built to *demonstrate MVVM with Jetpack Compose*.
 
 This project follows the famous MVVM architecture and best practices from Google's [GithubBrowserSample](https://github.com/android/architecture-components-samples/tree/master/GithubBrowserSample)
 
+![](extras/arch.jpg)
 
 <br />
 
