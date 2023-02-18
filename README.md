@@ -8,7 +8,7 @@ built to *demonstrate MVVM with Jetpack Compose*.
 
 ## Designs - Dark Mode Available 🌙
 
-![dark_screenshots](extras/2.png) ![dark_screenshots](extras/3.png)
+![dark_screenshots](extras/app.png)
 
 <br />
 
